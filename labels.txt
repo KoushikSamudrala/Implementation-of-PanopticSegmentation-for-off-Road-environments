@@ -1,0 +1,10 @@
+__ignore__
+_background_
+ground
+bush
+tree_branches
+rock
+road
+tree_trunk
+person
+vehicle
