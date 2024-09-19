@@ -1,6 +1,6 @@
 # MasterThesis
 
-# Implementation of Panoptic Segmentation for off-road environments
+# Off-Road Panoptic Segmentation 
 This project is about the generation of a baseline network for predicting panoptic segmentation results on the input forest image using a deep learning model, that is trained using Detectron2 network architecture of PanopticFPN model using custom dataset of RPTU Forest Panoptic Dataset.
 
 
